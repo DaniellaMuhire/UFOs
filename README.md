@@ -35,7 +35,7 @@ If we filter an element that is not contain in our data, there is nothing displa
 
 The search field is case-sensitive. If we don't enter the same exact element contained in our data, the table will not be updated. For example, if  we enter a city by tping it with capital letters, the table won't be updated.
 
-###Recommendations
+### Recommendations
 By adding the following we can improve the user's experience:
 
 - Add a search button. In fact, when the user enters information to filter the table, there is nothing that tells the user to press Enter. It will improve user'experience to add a search button. 
